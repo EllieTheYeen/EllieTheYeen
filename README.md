@@ -8,3 +8,5 @@ A soft YeenDeer
 - 📫 How to reach me: Discord, Mastodon or Twitter
 - 😄 Pronouns: She/They/It
 - ⚡ Fun fact: Programmed for over 20 years
+
+Blog: <https://ellietheyeen.github.io/>
